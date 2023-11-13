@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186108694923",
+    "project_id": "final-projek-ke-2",
+    "storage_bucket": "final-projek-ke-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186108694923:android:3df353d7d02f08aebc9f8e",
+        "android_client_info": {
+          "package_name": "com.uknown.tugasakhir2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCIphTZvHLI-V0nPeR2PTRbN47mmKdDJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
